@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Vivek Agarwal</h1>
-<h3 align="center"> CS Sophomore at BML Munjal University.</h3>
+<h3 align="center"> CS Third Year at BML Munjal University.</h3>
 <h3 align="center">Tech geek who likes to tinker and explore new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarbmu&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarbmu" /> </p>
