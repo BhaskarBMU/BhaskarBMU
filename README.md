@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarbmu&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarbmu" /> </p>
 
-- 🔭 I’m currently working on **Flutter based mobile apps.**
+- 🔭 I’m currently working on **Flutter based mobile apps and Deep Learning use cases.**
 
-- 🌱 I’m currently learning **Dart, Flutter and Machine Learning,**
+- 🌱 I’m currently learning ** Java,DSA,Dart,Flutter and Machine Learning,Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhaskar-vivek-agarwal-482799224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bhaskarag_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bhaskarag_" height="30" width="40" /></a>
 <a href="https://leetcode.com/Bhaskar_Agarwal_BMU/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Bhaskar_Agarwal_BMU/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bhaskar_agarwal/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bhaskar_agarwal/practice" height="30" width="40" /></a>
 </p>
